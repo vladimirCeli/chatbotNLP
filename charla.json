@@ -1,0 +1,124 @@
+{
+    "charla":[
+       {
+          "etiqueta":"saludo",
+          "patrones":[
+             "Hola",
+             "Cómo estás",
+             "¿Hay alguien ahí?",
+             "Oye",
+             "Hola",
+             "Hola",
+             "Buenos días"
+          ],
+          "respuestas":[
+             "Hola, gracias por preguntar",
+             "Qué bueno verte de nuevo",
+             "Hola, ¿cómo puedo ayudar?"
+          ],
+          "contexto":[
+             ""
+          ]
+       },
+       {
+          "etiqueta":"adiós",
+          "patrones":[
+             "Adiós",
+             "Hasta luego",
+             "Adiós",
+             "Encantado de charlar contigo, adiós",
+             "Hasta la próxima"
+          ],
+          "respuestas":[
+             "¡Nos vemos!",
+             "Que tenga un lindo día",
+             "¡Adiós! Vuelve pronto"
+          ],
+          "contexto":[
+             ""
+          ]
+       },
+       {
+          "etiqueta":"gracias",
+          "patrones":[
+             "Gracias",
+             "Gracias",
+             "Eso es útil",
+             "Genial gracias",
+             "Gracias por ayudarme"
+          ],
+          "respuestas":[
+             "¡Feliz de ayudar!",
+             "¡Cualquier momento!",
+             "Mi placer"
+          ],
+          "contexto":[
+             ""
+          ]
+       },
+       {
+          "etiqueta":"sin respuesta",
+          "patrones":[
+             
+          ],
+          "respuestas":[
+             "Lo siento, no puedo entenderte",
+             "Por favor, dame más información",
+             "No estoy seguro si entiendo"
+          ],
+          "contexto":[
+             ""
+          ]
+       },
+       {
+          "etiqueta":"opciones",
+          "patrones":[
+             "¿Cómo podrías ayudarme?",
+             "¿Lo que puedes hacer?",
+             "¿Qué ayuda proporcionas?",
+             "¿Cómo puedes ser útil?",
+             "Qué apoyo se ofrece"
+          ],
+          "respuestas":[
+             "Soy asistente personal de Balaji Srinivasan y soy fanático de Python",
+             "Soy fanático de Python y suscriptor del canal de YouTube de Balaji Srinivasan"
+          ],
+          "contexto":[
+             ""
+          ]
+       },
+       {
+          "etiqueta":"python_is_best",
+          "patrones":[
+             "¿Cuál es el mejor lenguaje de programación?",
+             "¿Puedes decirme cuál es el mejor idioma del mundo?",
+             "¿Qué lenguaje puedo empezar a programar?",
+             "¿Es el lenguaje Python un lenguaje increíble?",
+             "Soy un principiante y necesito aprender un nuevo idioma"
+          ],
+          "respuestas":[
+             "¡Sin duda, Python es el lenguaje más HERMOSO que existe! Puedes comenzar a aprenderlo en cualquier momento",
+             "Soy fanático de Python. Es mi favorito. Si no me crees, pruébalo tú mismo"
+          ],
+          "contexto":[
+             ""
+          ]
+       },
+       {
+          "etiqueta":"broma",
+          "patrones":[
+             "Cuéntame un chiste",
+             "¿Puedes contarme un chiste?",
+             "hacer un poco de diversión",
+             "hazme reír y hazme alguna broma graciosa",
+             "Cuéntame un chiste"
+          ],
+          "respuestas":[
+             "¿Cómo se separan las funciones? \n Dejan de llamarse"
+          ],
+          "contexto":[
+             ""
+          ]
+       }
+    ]
+ }
